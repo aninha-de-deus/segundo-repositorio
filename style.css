@@ -20,6 +20,16 @@ body  {
      width: 50%;    /* cuidado com seu tamanho */
 }
 
+.estudante-ícone {
+     width: 25px;
+     padding: 4px 8px;
+}
+
 footer  {
      background-color: deeppink;
+}
+
+.rodape {
+     background-color: hotpink;
+     text-align: center;
 }
